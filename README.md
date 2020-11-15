@@ -5,7 +5,7 @@
 
 Запуск:
 
-npm install
-npm start
+1) npm install
+2) npm start
 ![alt tag](https://sun9-13.userapi.com/hSEabKiWyfKNiAFGC3yDwFl9lhUUxU5EaBgd-w/3W5VIJPqnHs.jpg)
 ![alt tag](https://sun9-10.userapi.com/ysvIPHM_-83sB_jXq43c5gIMVUfzwQUMF0qLmA/4Ks9s0Ha_Sk.jpg)
